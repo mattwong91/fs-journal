@@ -28,13 +28,13 @@
     > | Good design leads to a user having more trust in your website, and can give a sense of branding through design. |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | To explore ideas for the look and feel of a website, user experience, page flow and other before creating an actual website or writing any code. |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | Yes, low to mid fidelity wireframe are very cost effective and don't require much overhead. Even high fidelity wireframes are helpful as they can give a developer exact specifications to emulate in code. |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | This turns the element into a flexbox which allows for easier manipulation of the children contained within. |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | the 'height' property and the 'width' property|
