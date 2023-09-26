@@ -12,3 +12,6 @@ Remember to `link` your stylesheet to the html document.
   you can target '_blank' for a new tab
   
 typically use `<i>` tag for icons
+
+use `<script>` tag to link your Javascript. 
+  Place that tag at the bottom of the `<body>` tag
