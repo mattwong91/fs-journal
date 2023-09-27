@@ -16,4 +16,5 @@ spread operator `...person` dumps all key-value pairs of the 'person' object
 `const personCopy = {...person}` 'breaking reference'
 
 finding a random array index: `Math.floor(Math.random() * array.length)`
-`array.find()` returns first element that fufills condiiton. `array.filter()` returns all elements that fit condition
+`array.find()` returns first element that fufills condiiton.
+`array.filter()` returns an array of elements that fit condition
