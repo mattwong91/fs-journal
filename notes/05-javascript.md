@@ -18,3 +18,5 @@ spread operator `...person` dumps all key-value pairs of the 'person' object
 finding a random array index: `Math.floor(Math.random() * array.length)`
 `array.find()` returns first element that fufills condiiton.
 `array.filter()` returns an array of elements that fit condition
+
+Can use `querySelector()` on an element to search for a selector (ex: '.stats')

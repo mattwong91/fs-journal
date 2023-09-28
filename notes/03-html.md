@@ -15,3 +15,5 @@ typically use `<i>` tag for icons
 
 use `<script>` tag to link your Javascript. 
   Place that tag at the bottom of the `<body>` tag
+
+can apply a `role` attribute to any element (ex: make a `<p>` tag behave like a button)
