@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | Five design principles for object oriented programming. They are: Single Responsibility Principle, Open-Close Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -46,7 +46,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | Add breakpoints and use line by line stepover. You can also use git branches to test new solutions without losing previously written code. |
+    > | Add breakpoints and use line by line stepover. Use dev tools to invoke functions, check definitions of objects, arrays, etc. You can also use git branches to test new solutions without losing previously written code. |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
